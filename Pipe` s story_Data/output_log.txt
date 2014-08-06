@@ -1,0 +1,59 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Mobility Radeon HD 5000 Series (ID=0x68c1)
+    Vendor:   ATI
+    VRAM:     1017 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Bojidar\Desktop\Ubisoft Game\Ubisoft Kursova Rabota\Pipe` s story_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Bojidar\Desktop\Ubisoft Game\Ubisoft Kursova Rabota\Pipe` s story_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Bojidar\Desktop\Ubisoft Game\Ubisoft Kursova Rabota\Pipe` s story_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Bojidar\Desktop\Ubisoft Game\Ubisoft Kursova Rabota\Pipe` s story_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Bojidar\Desktop\Ubisoft Game\Ubisoft Kursova Rabota\Pipe` s story_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Bojidar\Desktop\Ubisoft Game\Ubisoft Kursova Rabota\Pipe` s story_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Bojidar\Desktop\Ubisoft Game\Ubisoft Kursova Rabota\Pipe` s story_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Bojidar\Desktop\Ubisoft Game\Ubisoft Kursova Rabota\Pipe` s story_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.088 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Bojidar\Desktop\Ubisoft Game\Ubisoft Kursova Rabota\Pipe` s story_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 2.416647 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1836.
+Total: 1.340799 ms (FindLiveObjects: 0.094305 ms CreateObjectMapping: 0.031435 ms MarkObjects: 0.424693 ms  DeleteObjects: 0.028227 ms)
+
+UnloadTime: 2.229961 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1837.
+Total: 0.871840 ms (FindLiveObjects: 0.060303 ms CreateObjectMapping: 0.030793 ms MarkObjects: 0.268159 ms  DeleteObjects: 0.005773 ms)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 374)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 374)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 374)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 374)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 374)
+
+UnloadTime: 4.165461 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1836.
+Total: 0.903275 ms (FindLiveObjects: 0.060945 ms CreateObjectMapping: 0.034001 ms MarkObjects: 0.284839 ms  DeleteObjects: 0.013472 ms)
+
